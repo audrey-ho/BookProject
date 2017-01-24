@@ -1,3 +1,3 @@
 # BookProject
-Object oriented implementation of a Book Review project
-Book Review Project phase 1
+Object oriented implementation of a Book Review project phase 1
+November 24, 2016
